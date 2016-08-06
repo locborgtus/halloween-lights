@@ -1,0 +1,15 @@
+{
+  "name": "halloween-lights",
+  "version": "0.1.0",
+  "description": "Halloween-themed Philips Hue light changer for the kids",
+  "author": "Simon Wong <locborgtus@gmail.com>",
+  "dependencies": {
+    "async": "1.4.2",
+    "node-hue-api": "1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/locborgtus/halloween-lights"
+  },
+  "license": "UNLICENSED"
+}
